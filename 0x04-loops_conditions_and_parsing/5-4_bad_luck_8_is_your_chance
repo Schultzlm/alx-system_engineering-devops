@@ -15,7 +15,7 @@ do
   then
     echo "good luck"
   else
-    echo "Best School\n"
+    echo "Best School"
   fi
   (( count++ ))
 done
