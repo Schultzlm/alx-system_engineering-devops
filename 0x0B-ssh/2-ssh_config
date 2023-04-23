@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#This is a client confuguration file
+Host default
+  HostName 34.236.171.16
+  User ubuntu
+  Port 22
+  PasswordAuthentication no
+  IdentityFile ~/.ssh/school
